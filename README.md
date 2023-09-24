@@ -1,2 +1,2 @@
 
-[Final Report](Dermnet Application.pdf)
+[Final Report](Dermnet%20Application.pdf)
