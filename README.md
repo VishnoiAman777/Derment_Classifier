@@ -1,3 +1,2 @@
-# Dermnet-Classifier
 
-Link for the dateset:  https://drive.google.com/drive/folders/1TNFcPwDxWbySK6PKWqzKzVQOAT2bow6O?usp=sharing
+[Dermnet Application.pdf](https://github.com/VishnoiAman777/Dermnet-Classifier/files/12709299/Dermnet.Application.pdf)
